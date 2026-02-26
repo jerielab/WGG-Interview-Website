@@ -2,7 +2,7 @@ READ BEFORE VIEWING!!!
 
 Before viewing do these:
 
-run composer install
-run npm install
-run php artisan key:generate
-run php artisan migrate
+composer install
+npm install
+php artisan key:generate
+php artisan migrate
